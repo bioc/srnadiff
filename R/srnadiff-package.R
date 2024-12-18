@@ -117,7 +117,6 @@
 #'
 #' @import stats
 #' @import methods
-#' @import devtools
 #' @import S4Vectors
 #' @import GenomeInfoDb
 #' @import rtracklayer

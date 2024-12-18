@@ -24,7 +24,6 @@ Imports:
     Rcpp (>= 0.12.8),
     stats,
     methods,
-    devtools,
     S4Vectors,
     GenomeInfoDb,
     rtracklayer,
