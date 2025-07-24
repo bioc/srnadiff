@@ -118,7 +118,7 @@
 #' @import stats
 #' @import methods
 #' @import S4Vectors
-#' @import GenomeInfoDb
+#' @import Seqinfo
 #' @import rtracklayer
 #' @import SummarizedExperiment
 #' @import IRanges
